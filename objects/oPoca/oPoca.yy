@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oLixeira",
+  "%Name":"oPoca",
   "eventList":[],
   "managed":true,
-  "name":"oLixeira",
+  "name":"oPoca",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -26,10 +26,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"sLixeira",
-    "path":"sprites/sLixeira/sLixeira.yy",
+    "name":"sPoca",
+    "path":"sprites/sPoca/sPoca.yy",
   },
   "spriteMaskId":null,
   "visible":true,

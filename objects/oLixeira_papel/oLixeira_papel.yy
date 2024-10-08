@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oLixeira",
+  "%Name":"oLixeira_papel",
   "eventList":[],
   "managed":true,
-  "name":"oLixeira",
+  "name":"oLixeira_papel",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"sLixeira",
-    "path":"sprites/sLixeira/sLixeira.yy",
+    "name":"sLixeira_papel",
+    "path":"sprites/sLixeira_papel/sLixeira_papel.yy",
   },
   "spriteMaskId":null,
   "visible":true,

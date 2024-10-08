@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oLixeira",
+  "%Name":"oLixo_Vidro",
   "eventList":[],
   "managed":true,
-  "name":"oLixeira",
+  "name":"oLixo_Vidro",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -26,10 +26,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"sLixeira",
-    "path":"sprites/sLixeira/sLixeira.yy",
+    "name":"sLixo_vidro",
+    "path":"sprites/sLixo_vidro/sLixo_vidro.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oLixeira",
+  "%Name":"oLixo_Metal",
   "eventList":[],
   "managed":true,
-  "name":"oLixeira",
+  "name":"oLixo_Metal",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -26,10 +26,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"sLixeira",
-    "path":"sprites/sLixeira/sLixeira.yy",
+    "name":"sLixo_metal",
+    "path":"sprites/sLixo_metal/sLixo_metal.yy",
   },
   "spriteMaskId":null,
   "visible":true,

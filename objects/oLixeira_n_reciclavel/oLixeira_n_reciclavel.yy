@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oLixeira",
+  "%Name":"oLixeira_n_reciclavel",
   "eventList":[],
   "managed":true,
-  "name":"oLixeira",
+  "name":"oLixeira_n_reciclavel",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"sLixeira",
-    "path":"sprites/sLixeira/sLixeira.yy",
+    "name":"sLixeira_n_reciclavel",
+    "path":"sprites/sLixeira_n_reciclavel/sLixeira_n_reciclavel.yy",
   },
   "spriteMaskId":null,
   "visible":true,
