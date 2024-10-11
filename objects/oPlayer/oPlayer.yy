@@ -19,6 +19,7 @@
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"oLixeira_n_reciclavel","path":"objects/oLixeira_n_reciclavel/oLixeira_n_reciclavel.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"oLixeira_organico","path":"objects/oLixeira_organico/oLixeira_organico.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"oLixeira_vidro","path":"objects/oLixeira_vidro/oLixeira_vidro.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":2,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"oPlayer",

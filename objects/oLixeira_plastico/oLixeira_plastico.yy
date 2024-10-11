@@ -6,8 +6,8 @@
   "name":"oLixeira_plastico",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"objetos",
+    "path":"folders/Objetos/objetos.yy",
   },
   "parentObjectId":null,
   "persistent":false,

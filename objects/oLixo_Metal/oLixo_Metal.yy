@@ -6,8 +6,8 @@
   "name":"oLixo_Metal",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"itens",
+    "path":"folders/Objetos/itens.yy",
   },
   "parentObjectId":null,
   "persistent":false,
