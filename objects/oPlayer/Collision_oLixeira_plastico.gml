@@ -5,4 +5,5 @@ if lixo=1 and tipo_lixo="plastico"{
 	lixo -= 1;
 	lixeira += 1;
 	sprite_index = sPlayer;
+	global.remove_item();
 }

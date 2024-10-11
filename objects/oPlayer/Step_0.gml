@@ -1,38 +1,34 @@
-/// @description Inserir descrição aqui
-// Você pode escrever seu código neste editor
+/// @description Player movement
 
-if keyboard_check(vk_up)
-{
-    y-=3
+// Check movement
+move_right = keyboard_check(vk_right);
+move_left = keyboard_check(vk_left);
+move_up = keyboard_check(vk_up);
+move_down = keyboard_check(vk_down);
+
+// Calculate movement
+vx = ((move_right - move_left) * walk_speed);
+vy = ((move_down - move_up) * walk_speed);
+
+if ( vx == 0 && vy == 0 ){
+	sprite_index = sPlayer
 }
 
-if keyboard_check(vk_down)
-{
-    y+=3
+if ( vx != 0 || vy != 0 ){
+	sprite_index = sPlayer_Walk	
+	x += vx;
+	if vx!=0 image_xscale= vx / 4;
+	y += vy;
 }
 
-
-if keyboard_check(vk_left)
-{
-    x-=3image_xscale=-2.4
-}
-
-if keyboard_check(vk_right)
-{
-    x+=3 image_xscale=2.4
-}
-
-if keyboard_check(vk_space){
-	room_restart();
-}
 
 if lixeira=6 {
 	room_goto_next();
 }
 
 if keyboard_check(vk_anykey){
-	sprite_index = sPlayer_Walk	
+	
 }
 else{
-	sprite_index = sPlayer	
+		
 }
