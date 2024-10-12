@@ -22,8 +22,10 @@ if ( vx != 0 || vy != 0 ){
 }
 
 
-if lixeira=6 {
+if (lixeira == 6) {
+	global.reset_inventario();
 	room_goto_next();
+	
 }
 
 if keyboard_check(vk_anykey){

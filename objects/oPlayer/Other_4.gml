@@ -1,5 +1,7 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
-global.reset_inventario();
 
-room_restart();
+lixo = 0;
+lixeira = 0;
+tipo_lixo = 0;
+pontos = 0;
