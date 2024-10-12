@@ -7,8 +7,8 @@ move_up = keyboard_check(vk_up);
 move_down = keyboard_check(vk_down);
 
 // Calculate movement
-vx = ((move_right - move_left) * walk_speed);
-vy = ((move_down - move_up) * walk_speed);
+vx = ((move_right - move_left) * 2*walk_speed);
+vy = ((move_down - move_up) * 2*walk_speed);
 
 if ( vx == 0 && vy == 0 ){
 	sprite_index = sPlayer

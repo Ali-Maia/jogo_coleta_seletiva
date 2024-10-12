@@ -28,7 +28,7 @@ for ( var i = 0; i< tam_menu; i++){
 		if (mouse_check_button_pressed(mb_left)) {
 			switch menu_inicial[i]{
 				case menu_inicial[0]:
-					room_goto(Room1);
+					room_goto(Room1_Praca);
 					break;
 				case menu_inicial[1]:
 					room_goto(Room_instrucao);
