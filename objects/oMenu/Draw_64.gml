@@ -31,9 +31,12 @@ for ( var i = 0; i< tam_menu; i++){
 					room_goto(Room1_Praca);
 					break;
 				case menu_inicial[1]:
+					room_goto(Room_historia);
+					break;
+					case menu_inicial[2]:
 					room_goto(Room_instrucao);
 					break;
-				case menu_inicial[2]:
+				case menu_inicial[3]:
 					game_end();
 					break;
 			

@@ -1,7 +1,7 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-menu_inicial = [ "JOGAR", "HISTÓRIA", "SAIR"];
+menu_inicial = [ "JOGAR", "HISTÓRIA", "INSTRUÇÕES", "SAIR"];
 esc[array_length(menu_inicial)-1] = 0;
 
 for (var i = 0 ; i< array_length(esc); i++){

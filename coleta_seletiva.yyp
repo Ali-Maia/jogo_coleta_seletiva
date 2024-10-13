@@ -64,6 +64,7 @@
     {"id":{"name":"oPoca","path":"objects/oPoca/oPoca.yy",},},
     {"id":{"name":"Room_base","path":"rooms/Room_base/Room_base.yy",},},
     {"id":{"name":"Room_base2","path":"rooms/Room_base2/Room_base2.yy",},},
+    {"id":{"name":"Room_historia","path":"rooms/Room_historia/Room_historia.yy",},},
     {"id":{"name":"Room_instrucao","path":"rooms/Room_instrucao/Room_instrucao.yy",},},
     {"id":{"name":"Room_menu","path":"rooms/Room_menu/Room_menu.yy",},},
     {"id":{"name":"Room1_Praca","path":"rooms/Room1_Praca/Room1_Praca.yy",},},
@@ -99,7 +100,6 @@
     {"id":{"name":"Sprite28","path":"sprites/Sprite28/Sprite28.yy",},},
     {"id":{"name":"Sprite29","path":"sprites/Sprite29/Sprite29.yy",},},
     {"id":{"name":"Sprite30","path":"sprites/Sprite30/Sprite30.yy",},},
-    {"id":{"name":"Sprite31","path":"sprites/Sprite31/Sprite31.yy",},},
     {"id":{"name":"Sprite32","path":"sprites/Sprite32/Sprite32.yy",},},
     {"id":{"name":"Sprite33","path":"sprites/Sprite33/Sprite33.yy",},},
     {"id":{"name":"sTable","path":"sprites/sTable/sTable.yy",},},
@@ -118,8 +118,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room2_Area_Rural","path":"rooms/Room2_Area_Rural/Room2_Area_Rural.yy",},},
     {"roomId":{"name":"Room_menu","path":"rooms/Room_menu/Room_menu.yy",},},
+    {"roomId":{"name":"Room2_Area_Rural","path":"rooms/Room2_Area_Rural/Room2_Area_Rural.yy",},},
     {"roomId":{"name":"Room_menu","path":"rooms/Room_menu/Room_menu.yy",},},
     {"roomId":{"name":"Room4_Suburbio","path":"rooms/Room4_Suburbio/Room4_Suburbio.yy",},},
     {"roomId":{"name":"Room3_Residencial","path":"rooms/Room3_Residencial/Room3_Residencial.yy",},},
@@ -131,6 +131,7 @@
     {"roomId":{"name":"Room_base","path":"rooms/Room_base/Room_base.yy",},},
     {"roomId":{"name":"Room_base2","path":"rooms/Room_base2/Room_base2.yy",},},
     {"roomId":{"name":"Room_instrucao","path":"rooms/Room_instrucao/Room_instrucao.yy",},},
+    {"roomId":{"name":"Room_historia","path":"rooms/Room_historia/Room_historia.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
