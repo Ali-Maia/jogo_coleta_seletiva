@@ -103,6 +103,7 @@
     {"id":{"name":"Sprite32","path":"sprites/Sprite32/Sprite32.yy",},},
     {"id":{"name":"Sprite33","path":"sprites/Sprite33/Sprite33.yy",},},
     {"id":{"name":"Sprite34","path":"sprites/Sprite34/Sprite34.yy",},},
+    {"id":{"name":"Sprite35","path":"sprites/Sprite35/Sprite35.yy",},},
     {"id":{"name":"sTable","path":"sprites/sTable/sTable.yy",},},
     {"id":{"name":"sTittle","path":"sprites/sTittle/sTittle.yy",},},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
@@ -120,8 +121,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room4_Suburbio","path":"rooms/Room4_Suburbio/Room4_Suburbio.yy",},},
     {"roomId":{"name":"Room_menu","path":"rooms/Room_menu/Room_menu.yy",},},
+    {"roomId":{"name":"Room4_Suburbio","path":"rooms/Room4_Suburbio/Room4_Suburbio.yy",},},
     {"roomId":{"name":"Room2_Area_Rural","path":"rooms/Room2_Area_Rural/Room2_Area_Rural.yy",},},
     {"roomId":{"name":"Room_menu","path":"rooms/Room_menu/Room_menu.yy",},},
     {"roomId":{"name":"Room3_Residencial","path":"rooms/Room3_Residencial/Room3_Residencial.yy",},},
