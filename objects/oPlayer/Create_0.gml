@@ -2,7 +2,7 @@
 // Você pode escrever seu código neste editor
 
 
-window_set_size(1280,720)
+window_set_size(1024,720)
 walk_speed = 10;
 vx = 0;
 vy = 0;
