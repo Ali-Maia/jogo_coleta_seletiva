@@ -8,7 +8,7 @@ global.add_item = function add_item_to_slot(tipo,item) {
     }
 	else {
 		 slot_item = noone;
-		slot_sprite = noone;
+		 slot_sprite = noone;
 	}
 }
 
