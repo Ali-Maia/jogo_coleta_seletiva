@@ -17,7 +17,7 @@ if ( vx == 0 && vy == 0 ){
 if ( vx != 0 || vy != 0 ){
 	sprite_index = sPlayer_Walk	
 	x += vx;
-	if vx!=0 image_xscale= vx / 4;
+	if vx!=0 image_xscale= vx / 10;
 	y += vy;
 }
 
@@ -26,11 +26,4 @@ if (lixeira == 6) {
 	global.reset_inventario();
 	room_goto_next();
 	
-}
-
-if keyboard_check(vk_anykey){
-	
-}
-else{
-		
 }

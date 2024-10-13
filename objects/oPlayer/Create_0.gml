@@ -3,7 +3,7 @@
 
 
 window_set_size(1280,720)
-walk_speed = 4;
+walk_speed = 10;
 vx = 0;
 vy = 0;
 dir = 3;
