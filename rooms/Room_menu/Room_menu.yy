@@ -1,12 +1,12 @@
 {
   "$GMRoom":"v1",
-  "%Name":"Room_menu",
+  "%Name":"Room_Menu",
   "creationCodeFile":"",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_505DD239","path":"rooms/Room_menu/Room_menu.yy",},
+    {"name":"inst_505DD239","path":"rooms/Room_Menu/Room_Menu.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -155,7 +155,7 @@
         ],},"tilesetId":{"name":"TileSet11","path":"tilesets/TileSet11/TileSet11.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4284900966,"depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":true,"x":0,"y":0,},
   ],
-  "name":"Room_menu",
+  "name":"Room_Menu",
   "parent":{
     "name":"Cenas",
     "path":"folders/Cenas.yy",

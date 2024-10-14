@@ -1,4 +1,4 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
 
-room_goto(Room_menu);
+room_goto(Room_Menu);
